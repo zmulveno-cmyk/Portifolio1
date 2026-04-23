@@ -1,0 +1,18 @@
+/* CSS by Zoei Mulvenon */
+
+/* Color Palatte
+
+/* Color Theme Swatches in Hex */
+.Fashion-1-hex { color: #7C9EA6; }
+.Fashion-2-hex { color: #BF6211; }
+.Fashion-3-hex { color: #BF4904; }
+.Fashion-4-hex { color: #D97E4A; }
+.Fashion-5-hex { color: #8C3D2B; }
+
+
+
+/** Global (base) MOBILE FIRST**/
+
+body{
+    background-color: #BF4904;
+}
